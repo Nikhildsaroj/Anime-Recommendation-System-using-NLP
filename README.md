@@ -19,3 +19,10 @@ The project workflow begins with comprehensive data preprocessing steps to clean
 ### Instructions:
 To explore the Anime Recommendation System and gain insights into the NLP techniques employed, clone this repository and execute the provided Jupyter Notebook. Prior to running the notebook, ensure that the dataset is appropriately located or downloaded from the provided source link.
 
+# Model Testing 
+
+![image](https://github.com/Nikhildsaroj/Anime-Recommendation-System-using-NLP/assets/148480961/c58ac1bb-9a28-44ce-aefb-6f291b858b04)
+
+![image](https://github.com/Nikhildsaroj/Anime-Recommendation-System-using-NLP/assets/148480961/9bd6debc-0a35-414e-b7a0-22ce67cc55b0)
+![image](https://github.com/Nikhildsaroj/Anime-Recommendation-System-using-NLP/assets/148480961/b24abd0b-5ddd-453f-9186-c85b4f856a56)
+
